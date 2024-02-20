@@ -4,7 +4,7 @@
 // Enter your leaderboard name
 let lname = "nazmulhasanovx";
 // Enter your initial capital
-let iblafp = 10000;
+let iblafp = 5456;
 
 // Change the URL to a new one
 var newUrl = "https://qxbroker.com/en/trade";
